@@ -119,7 +119,7 @@ Feel free to customize about.me page to show yourself. You only need to modify [
 - [ ] List posts by a specified tag
 - [ ] New module FootPrint to show your world around trips
 - [ ] Show projects from your orgnization on github. (Siderbar, in open-source page)
-- [ ] To fix bug - could only test on local with internet connected.
+
 
 ## Contributor
 
